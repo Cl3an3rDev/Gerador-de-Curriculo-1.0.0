@@ -1,4 +1,4 @@
-/*Neste exemplo, defini algumas propriedades globais para o corpo do documento, como a fonte, o tamanho da fonte, a margem e o preenchimento. Em seguida, defini estilos específicos para os elementos do formulário, como <label>, <input>, <textarea> e <button>. Por fim, defini estilos para a área de visualização do currículo, como a margem, o preenchimento, a borda e o background.*/
+/*Defini algumas propriedades globais para o corpo do documento, como a fonte, o tamanho da fonte, a margem e o preenchimento. Em seguida, defini estilos específicos para os elementos do formulário, como <label>, <input>, <textarea> e <button>. Por fim, defini estilos para a área de visualização do currículo, como a margem, o preenchimento, a borda e o background.*/
 
 body {
     font-family: Arial, sans-serif;
